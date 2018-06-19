@@ -1,0 +1,8 @@
+gem 'activerecord', :require => 'active_record'
+gem 'pry'
+gem 'rake'
+gem 'json'
+gem 'rest-client'
+gem 'sqlite3'
+gem 'require_all'
+gem 'sinatra-activerecord'
