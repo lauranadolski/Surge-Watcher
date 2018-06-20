@@ -12,7 +12,9 @@ ActiveRecord::Base.establish_connection(
   :database => 'db/development.sqlite'
 )
 
-ActiveRecord::Base.logger = Logger.new(STDOUT)
+ActiveRecord::Base.logger = nil
+
+# Logger.new(STDOUT)
 
 # Creates AR db and pulls in our Ruby code.
 # require_all '../app'
