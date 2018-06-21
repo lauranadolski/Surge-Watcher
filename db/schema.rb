@@ -13,11 +13,13 @@
 ActiveRecord::Schema.define(version: 4) do
 
   create_table "destinations", force: :cascade do |t|
+    t.string "address"
     t.float "latitude"
     t.float "longitude"
   end
 
   create_table "origins", force: :cascade do |t|
+    t.string "address"
     t.float "latitude"
     t.float "longitude"
   end

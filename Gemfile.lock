@@ -16,6 +16,7 @@ GEM
     concurrent-ruby (1.0.5)
     domain_name (0.5.20180417)
       unf (>= 0.0.5, < 1.0.0)
+    geocoder (1.4.9)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
     i18n (1.0.1)
@@ -62,6 +63,7 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord
+  geocoder
   json
   pry
   rake
