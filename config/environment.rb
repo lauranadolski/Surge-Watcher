@@ -15,11 +15,4 @@ ActiveRecord::Base.establish_connection(
 
 ActiveRecord::Base.logger = nil
 
-# Logger.new(STDOUT)
-
-# Creates AR db and pulls in our Ruby code.
-# require_all '../app'
-require_relative '../app/models/destination.rb'
-require_relative '../app/models/origin.rb'
-require_relative '../app/models/trip_estimate.rb'
-require_relative '../app/models/user.rb'
+require_all './app'
