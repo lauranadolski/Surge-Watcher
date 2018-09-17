@@ -19,11 +19,6 @@ Managing and Refreshing Lyft API Tokens:
 
 The Lyft API tokens are only valid for 24 hours, thus if it's been over 24 hours since last refreshing them, you'll have to do so in order to run this app.
 
-(For reference, update the below each time a new client secret is refreshed.)
-Our (current) Client ID: A2ihIeNpyuac
-Our (current) Client Secret: yT_YZ44OYUPjIU1ksorgLjRb36I4iVeT
-Our (current) token: "kcJbbCCZLgd9djD7ZOHz0B7U5g27zQtnkPxh4rQV1w9BCawM/ETrq2uzxug/2v95cVPLLOzEktP6WLx4gd/BGj1PuDRSXI1aB0XmqGxvBleqiKySAZljZ4w="
-
 STEPS
 1. Run below code in terminal with existing client ID and *refreshed* client secret (client secret must be refreshed on the Lyft developer's website for this to work):
   curl -X POST -H "Content-Type: application/json" \
