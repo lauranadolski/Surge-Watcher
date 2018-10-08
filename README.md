@@ -1,8 +1,10 @@
 Welcome!
 This app was made with love by Laura Nadolski and Leann Kim. We are currently (as of June 21, 2018) web development students at the Flatiron School in the big apple.
 
+![Surge watcher screenshot](https://i.imgur.com/qrCzXWZ.jpg)
+
 Video Demo:
-https://www.youtube.com/watch?v=ScKOKccFb80&feature=youtu.be
+https://youtu.be/GA4TFB7gCeg
 
 Description:
 Surge Watcher is an app for all you cheap-ass people out there (us included) who want to avoid surge pricing on Lyft. It takes your target ride origin and destination, and gives you a price estimate, along with data about whether or not surge pricing is in effect. You can continue to "ping" (AKA check your ride's rate) to your heart's desire, each time getting a newly updated rate quote. Then, when it's cheap enough for you, you can request the Lyft on your real phone and go on your merry way. Yay!
