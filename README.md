@@ -1,6 +1,8 @@
 Welcome!
 This app was made with love by Laura Nadolski and Leann Kim. We are currently (as of June 21, 2018) web development students at the Flatiron School in the big apple.
 
+<img src="https://i.imgur.com/qrCzXWZ.jpg" />
+
 Video Demo:
 https://youtu.be/GA4TFB7gCeg
 
